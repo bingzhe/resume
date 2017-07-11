@@ -40,7 +40,7 @@
 **ERP系统中的供应商、质检模块** --2017.01-2017.05
 
 - 项目描述：公司新开发的自己的ERP系统，后端是Java,前端负责前端页面开发，对应处理公司的供应商管理，产品质检部分。
-- 责任描述：配合后端，根据产品提供的原型图，以及 UI 设计师提供的 PSD 设计稿开发部分web页面，完成页面的的是业务逻辑，用到的技术HTML,CSS,JavaScript,Bootstrap等，其中供应商模块中部分页面有用前端框架vue开发。觉得vue挺好用的。
+- 责任描述：配合后端，根据产品提供的原型图，以及 UI 设计师提供的 PSD 设计稿开发部分web页面，完成页面的是业务逻辑，用到的技术HTML,CSS,JavaScript,Bootstrap等，其中供应商模块中部分页面有用前端框架Vue开发。觉得Vue挺好用的。
 
 **aukey官网** --2017.05-2017.06
 
@@ -59,25 +59,25 @@
 - 项目收获：花了一周左右的时间实现了基本的播放功能，又零零散散花了3周的时间对整个产品的功能、UI、代码进行升级优化。额外增加了收起展示拖动的功能便于用户使用到自己的网站中；增加了歌词展示优化歌词滚动体验；增加了一般的 FM 播放器不具备的上一曲的功能；对整个代码结构进行优化采用面向对象的方式封装代码。
 - 项目地址：[GitHub源码](https://github.com/bingzhe/FM_music) [线上预览](http://www.ranzhouli.cn/fm/)
 
-**在线音乐盒-vue**
+**在线音乐盒-Vue**
 
-- 项目介绍：就是把上面的fm播放器又用vue重新写了一遍。实现了大部分的功能
-- 所用技术：vue + vue-router + sass + javascript + html5 + css3 + 部分ES6语法 等
-- 项目收获：同一个东西，用另一个方式重新实现了一遍还有挺有意思的，对vue的了解更深刻了一点，但是不免有许多的坑跳进去，又慢慢爬出来
+- 项目介绍：就是把上面的fm播放器又用Vue重新写了一遍。实现了大部分的功能
+- 所用技术：Vue + Vue-Router + sass + JavaScript + HTML5 + CSS3 + 部分ES6语法 等
+- 项目收获：同一个东西，用另一个方式重新实现了一遍还有挺有意思的，对Vue的了解更深刻了一点，但是不免有许多的坑跳进去，又慢慢爬出来
 - 项目地址：[GitHub源码](https://github.com/bingzhe/fm-music-vue) [线上预览](http://www.ranzhouli.cn/fmvue)
 
 **单页面搜索**
 
 - 项目介绍：实现一个搜索页面，支持在百度搜索，搜狗搜索，360搜索之间切换
-- 使用技术：使用vue-cli构建项目；使用vue2.0中的单文件组件，vue过渡效果等实现页面的两个组件；使用Webpack将页面打包
-- 项目收获：花了两周左右时间实现，开始使用vue2.0的基本用法是实现基本切换，搜索。之后重新使用vue-cli基于Webpack构建项目，将页面中的两个组件拆分出来实现为单文件组件，添加vue过渡效果，用webpack打包。学习到了vue的基本用法，
+- 使用技术：使用Vue-cli构建项目；使用Vue2.0中的单文件组件，Vue过渡效果等实现页面的两个组件；使用Webpack将页面打包
+- 项目收获：花了两周左右时间实现，开始使用Vue2.0的基本用法是实现基本切换，搜索。之后重新使用Vue-cli基于Webpack构建项目，将页面中的两个组件拆分出来实现为单文件组件，添加Vue过渡效果，用webpack打包。学习到了Vue的基本用法，
 - 项目地址：[GitHub源码](https://github.com/bingzhe/vuesearch/tree/master/vuesearch2) [搜索](http://www.ranzhouli.cn/demo-search/dist)
 
-**vue单页面售卖平台**
+**Vue单页面售卖平台**
 
-- 项目介绍：vue写的一个单页面应用，有页面之间的跳转，vue实现的轮播组件，模态框组件
-- 使用技术：vue + vue-router + javascript + html + css + 部分ES6语法 等
-- 项目收货：有vue的基本用法，用了vue的单页面组件实现了弹框，轮播等，造简单的轮子挺有意义的。
+- 项目介绍：Vue写的一个单页面应用，有页面之间的跳转，Vue实现的轮播组件，模态框组件
+- 使用技术：Vue + Vue-Router + JavaScript + HTML + CSS + 部分ES6语法 等
+- 项目收货：有Vue的基本用法，用了Vue的单页面组件实现了弹框，轮播等，造简单的轮子挺有意义的。
 - 项目地址：[GitHub源码](https://github.com/bingzhe/SalePlatform)
 
 **刮刮乐项目** 
