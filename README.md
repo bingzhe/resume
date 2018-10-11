@@ -11,11 +11,10 @@
 * 冉周礼/男/1993
 * 本科/陕西科技大学
 * 语言：英语
-* 工作年限：2年
+* 工作年限：3年
 * Github： https://github.com/bingzhe/resume
 * 博客：https://bingzhe.github.io/
 * 期望职位：web前端开发
-* 期望薪资：7000~9000,特别喜欢可以例外
 * 期望城市：深圳
 
 ## 工作经历
