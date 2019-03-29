@@ -28,7 +28,7 @@
 - 项目描述：一整套的自助售货机方案，自助售货机后台包括设备管理，商品管理，运营管理，订单管理等，TPSUN扫码下单客人端支持客户微信扫码下单，TPSUN运营商管理助手是H5端，入口是微信公众号菜单，支持运营商运营人员上下架商品，补货，查看数据报表，退货等。
 - 责任描述：采用前后端分离开发模式，负责整个项目前端的基本结构搭建以及大部分模块开发。
 - 技术实现：HTML5 + CSS3 + JavaScript + Vue + Vue Router + Vuex + Sass
-- 项目地址：
+- 项目地址（需要微信端打开）：
     - http://platform.xinchihuo.com.cn/php/assistant/login_wx.php?type=1
     - http://vendor.jzzwlcm.com/index.php?vendor_id=VI149
 
