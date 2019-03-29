@@ -29,8 +29,8 @@
 - 责任描述：采用前后端分离开发模式，负责整个项目前端的基本结构搭建以及大部分模块开发。
 - 技术实现：HTML5 + CSS3 + JavaScript + Vue + Vue Router + Vuex + Sass
 - 项目地址：
-    http://platform.xinchihuo.com.cn/php/assistant/login_wx.php?type=1
-    http://vendor.jzzwlcm.com/index.php?vendor_id=VI149
+    - http://platform.xinchihuo.com.cn/php/assistant/login_wx.php?type=1
+    - http://vendor.jzzwlcm.com/index.php?vendor_id=VI149
 
 **赛领微信商城和商城PC管理端** --2018.06-2018.10
 
